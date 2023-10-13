@@ -3,17 +3,21 @@
 Authors: Aishwarya Mathala, Anurag Inampudi
 
 
-Overview
+Overview:
+
 This GitHub repository hosts the code for a story generator that uses the GPT-2 language model fine-tuned for generating creative stories in various genres. This powerful tool can be used to generate engaging narratives based on user-defined prompts, making it an excellent resource for creative writing, story ideas, or simply exploring the capabilities of text generation models.
 
-Key Features
+Key Features:
+
 Story Generation: The code leverages Hugging Face's Transformers library to generate stories based on user-specified prompts and genres.
 Genre Customization: You can specify the genre for your story, allowing you to create narratives in various styles such as superhero, sci-fi, horror, thriller, action, and drama.
 Fine-Tuning: The model is fine-tuned to produce contextually relevant and coherent stories in the selected genre.
 Prompt Flexibility: Users can provide input prompts to guide the story generation process, making it adaptable for different creative needs.
 Interactive Usage: The repository includes code to interactively generate and display stories within a Jupyter Notebook or Colab environment.
 
-Getting Started
+Getting Started;
+
+
 To use this story generator, you can follow these steps:
 Clone the Repository: Clone this GitHub repository to your local machine.
 Install Dependencies: Ensure you have the required libraries installed by running the following command in your terminal:
