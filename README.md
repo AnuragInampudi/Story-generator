@@ -1,5 +1,8 @@
 # Story-generator
 
+google colab notebook: https://colab.research.google.com/drive/1Vb_hg8tskpho7gTJlPdPl67NZJAbhqHM?usp=sharing
+
+
 Authors: Aishwarya Mathala, Anurag Inampudi
 
 
